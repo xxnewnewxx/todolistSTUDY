@@ -146,9 +146,9 @@ h1 span:nth-child(9) {
   color: #333;
 }
 
-/* 할일추가하기 버튼 */
+/* 등록 버튼 */
 .button-add {
-  width: 130px;
+  width: 60px;
   height: 50px;
   border: none;
   background-color: rgb(245, 91, 222);
