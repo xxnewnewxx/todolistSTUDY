@@ -111,7 +111,7 @@ h1 span:nth-child(9) {
   transition: padding-top 0.2s ease, margin-top 0.2s ease;
   width: 80%;
   border: none;
-  border: 1px solid rgb(7, 7, 7);
+  /* border: 1px solid rgb(254, 249, 249); */
   height: 50px;
   /* margin-top: 40px; */
 }
